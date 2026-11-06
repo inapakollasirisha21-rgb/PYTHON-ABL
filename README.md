@@ -4,8 +4,8 @@
 
 | Field | Details |
 |---|---|
-| **Name** | Siddisha Inapakolla |
-| **Roll Number** | 26001142 |
+| **Name** | Sirisha Inapakolla |
+| **Roll Number** | 26001143 |
 | **Branch** | B.Tech – Computer Science and Engineering (Artificial Intelligence & Machine Learning) |
 | **Section** | CSM_5 |
 | **Year** | First Year |
